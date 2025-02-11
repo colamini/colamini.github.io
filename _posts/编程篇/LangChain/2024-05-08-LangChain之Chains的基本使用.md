@@ -2,7 +2,7 @@
 layout: post
 title: "LangChain之Chains的基本使用"
 date: 2024-05-08
-author: "cola Liu"
+author: "cola"
 categories: [编程篇, LangChain]
 usemathjax: true
 ---

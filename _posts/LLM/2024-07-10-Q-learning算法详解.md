@@ -2,7 +2,7 @@
 layout: post
 title: "Q-learning算法详解"
 date: 2024-07-10
-author: cola Liu
+author: cola
 categories: [LLM, RL]
 ---
 

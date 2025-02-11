@@ -2,7 +2,7 @@
 layout: post
 title: "词向量-word2vec之cbow和skipgram"
 date: 2024-06-03
-author: cola Liu
+author: cola
 categories: [LLM]
 ---
 ## 词向量

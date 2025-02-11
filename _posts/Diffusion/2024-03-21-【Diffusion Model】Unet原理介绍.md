@@ -2,7 +2,7 @@
 layout: post
 title: "【Diffusion Model】U-Net原理介绍"
 date: 2024-03-21
-author: cola Liu
+author: cola
 categories: [Diffusion]
 usemathjax: true
 ---

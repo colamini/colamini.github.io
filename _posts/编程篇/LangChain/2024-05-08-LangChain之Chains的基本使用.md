@@ -5,11 +5,11 @@ date: 2024-05-08
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
-image: assets/imgs/ai/langchain/doc-chain.pn
+image: assets/imgs/ai/langchain/doc-chain.png
+
 ---
 
 
-## 写在前面
 `Chains` 是 `LangChain` 的核心组件，它可以是一个`LLM`调用、一个`tool`工具，或者一个数据处理的步骤。
 
 > Chains refer to sequences of calls - whether to an LLM, a tool, or a data preprocessing step.

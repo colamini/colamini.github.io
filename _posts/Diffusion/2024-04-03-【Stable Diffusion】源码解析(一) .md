@@ -9,8 +9,10 @@ image: assets/imgs/ai/diffusion/diffusion000.jpeg
 ---
 
 
+`Stable Diffusion` 是一种信息传播模型，通常应用于网络分析、社交网络、传播学等领域。
 
-`Stable Diffusion` 是一种信息传播模型，通常应用于网络分析、社交网络、传播学等领域。它的设计 基于`Diffusion`模型,主要分为三个阶段（以`txt2img`为例）：
+它的设计 基于`Diffusion`模型,主要分为三个阶段（以`txt2img`为例）：
+
 - **Encoder**： 包括了输入的文本编码和图像编码等。
     - **文本编码**：主要采用`Text Embedding`技术。文本嵌入`（Text Embedding）`将文本数据转换为向量表示。
     - **图像编码**：主要将原图片进行压缩，转换成潜在空间中的`latent repretation`。

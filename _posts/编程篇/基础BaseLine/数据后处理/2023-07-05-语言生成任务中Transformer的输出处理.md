@@ -8,8 +8,6 @@ image: assets/imgs/ai/transformer/transformer-output-max.png
 
 ---
 
-
-## 写在前面
 我们知道，`Transformer` 的输入是一个张量，经过计算之后输出也是一个张量。而我们的输入是一个序列（可以是文本也可以是其他序列），最终想要的目标也是一个序列。
 
 而将输入转换成`tensor张量`是比较简单的事情。但是如何利用输出矩阵输出目标的序列呢？本文将以**语言生成任务**为例，介绍如何将`Transformer`的输出矩阵转换成我们想要的结果。

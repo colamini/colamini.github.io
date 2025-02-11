@@ -2,7 +2,7 @@
 name: "Cola's blog"
 title: "Cola's blog"
 description: "流水不争先，滔滔不绝"
-logo: 'assets/images/avatar.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 # google_analytics: 'UA-46278016-1'

@@ -1,11 +1,11 @@
 # Site
-name: "Cola"
+name: "Cola's blog"
 title: "Cola's blog"
-description: "来都来了"
+description: "流水不争先，滔滔不绝"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+# google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -16,7 +16,7 @@ authors:
   cola:
     name: 
     display_name: cola
-    avatar: 'assets/images/avatar.JPG'
+    avatar: 'assets/images/avatar.png'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: 1657619661@qq.com
     web: https://colamini.github.io

@@ -4,6 +4,7 @@ title: "Q-learning算法详解"
 date: 2024-07-10
 author: cola
 categories: [LLM, RL]
+image: assets/imgs/ai/llm/RL/q-learning/q-learning-all.png
 ---
 
 ## RL基础概念

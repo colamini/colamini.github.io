@@ -4,6 +4,7 @@ title: "LLM中的Tokenizer"
 date: 2024-05-27
 author: cola
 categories: [LLM]
+image: assets/imgs/ai/llm/tokenizer-1.png
 ---
 
 ## 什么是 Tokenizer？

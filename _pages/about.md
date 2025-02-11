@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About me
 permalink: /about
-comments: true
+# comments: true
 ---
 
 <h2></h2>

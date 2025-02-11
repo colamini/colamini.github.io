@@ -2,12 +2,12 @@
 layout: post
 title: "详细了解transformer"
 date: 2023-07-03
-author: cola
+author: cola Liu
 categories: [编程篇,BaseLine,模型设计]
 pin: true
+image: assets/imgs/ai/transformer/self-attention.png
 ---
 
-## 写在前面
 `Transformer`是一种用于自然语言处理和其他序列到序列任务的机器学习模型。它于2017年由Google的研究人员提出，并在机器翻译任务中取得了重大突破。
 
 `Transformer`模型由编码器`（Encoder）`和解码器`（Decoder）`组成。

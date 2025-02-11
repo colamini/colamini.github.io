@@ -2,8 +2,10 @@
 layout: post
 title: "语言生成任务中Transformer的输出处理"
 date: 2023-06-01
-author: cola
+author: cola Liu
 categories: [编程篇,BaseLine,数据后处理]
+image: assets/imgs/ai/transformer/transformer-output-max.png
+
 ---
 
 

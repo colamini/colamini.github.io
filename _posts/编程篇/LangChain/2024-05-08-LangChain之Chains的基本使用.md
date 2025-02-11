@@ -2,12 +2,12 @@
 layout: post
 title: "LangChain之Chains的基本使用"
 date: 2024-05-08
-author: "cola"
+author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
+image: assets/imgs/ai/langchain/doc-chain.pn
 ---
 
-<img src="/assets/imgs/ai/langchain/chain.png" />
 
 ## 写在前面
 `Chains` 是 `LangChain` 的核心组件，它可以是一个`LLM`调用、一个`tool`工具，或者一个数据处理的步骤。

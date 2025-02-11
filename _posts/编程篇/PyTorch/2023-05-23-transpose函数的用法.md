@@ -2,8 +2,9 @@
 layout: post
 title: "transpose函数的用法"
 date: 2023-05-23
-author: cola
+author: cola Liu
 categories: [编程篇, PyTorch]
+image: assets/imgs/ai/PyTorch/permute/transpose.png
 ---
 
 ## transpose

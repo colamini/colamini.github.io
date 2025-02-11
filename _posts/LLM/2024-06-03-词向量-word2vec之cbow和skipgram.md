@@ -4,6 +4,8 @@ title: "词向量-word2vec之cbow和skipgram"
 date: 2024-06-03
 author: cola
 categories: [LLM]
+description: "词向量Word Embedding是一种将词语表示为实数向量的方法。这种方法通过将词语映射到一个高维空间中，使得在该空间中具有相似意义的词语的向量彼此接近。
+"
 ---
 ## 词向量
 

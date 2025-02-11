@@ -2,7 +2,7 @@
 layout: post
 title: "状态字典state_dict简单介绍"
 date: 2023-06-02
-author: cola
+author: cola Liu
 categories: [编程篇, PyTorch]
 ---
 

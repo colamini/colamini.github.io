@@ -5,6 +5,7 @@ date: 2024-04-07
 author: "cola"
 categories: [Diffusion]
 usemathjax: true
+image: assets/imgs/ai/diffusion/sdw-007.jpeg
 ---
 `Stable Diffusion WebUI`（稳定扩散 WebUI）是一个基于 `Stable Diffusion` 的网络用户界面 `（Web User Interface）`。
 

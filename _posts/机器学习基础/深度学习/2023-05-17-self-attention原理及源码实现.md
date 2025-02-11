@@ -5,6 +5,7 @@ date: 2023-05-17
 author: cola
 categories: [机器学习基础]
 pin: true
+image: assets/imgs/ai/self-attention/self-attention-1.png
 ---
 
 `self-attention`是一个新的模型架构。对待新的模型架构，一般是从已有的知识入手，分析新旧模型之间的异同，提出新的架构可以帮助以前的模型解决什么痛点。

@@ -2,8 +2,9 @@
 layout: post
 title: "PyTorch常见的神经网络层和 API"
 date: 2023-03-20
-author: cola
+author: cola Liu
 categories: [编程篇, PyTorch]
+image: assets/imgs/ai/PyTorch/模型设计/全连接层示意图.png
 ---
 
 # PyTorch常见的神经网络层和 API

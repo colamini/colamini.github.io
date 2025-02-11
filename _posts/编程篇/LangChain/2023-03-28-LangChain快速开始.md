@@ -2,9 +2,11 @@
 layout: post
 title: "LangChain快速开始"
 date: 2024-03-28
-author: "cola"
+author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
+image: assets/imgs/ai/langchain/langchain-model-io.png
+
 ---
 
 `LangChain`是一个用于开发由语言模型(language models LMS)支持的应用程序的框架。它使应用程序能够：

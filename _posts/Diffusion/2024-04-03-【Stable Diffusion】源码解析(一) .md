@@ -5,9 +5,9 @@ date: 2024-04-03
 author: "cola"
 categories: [Diffusion]
 usemathjax: true
+image: assets/imgs/ai/diffusion/diffusion000.jpeg
 ---
 
-<img src="/assets/imgs/ai/diffusion/diffusion000.jpeg" />
 
 
 `Stable Diffusion` 是一种信息传播模型，通常应用于网络分析、社交网络、传播学等领域。它的设计 基于`Diffusion`模型,主要分为三个阶段（以`txt2img`为例）：

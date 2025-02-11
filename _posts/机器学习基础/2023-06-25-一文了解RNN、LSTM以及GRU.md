@@ -5,6 +5,7 @@ date: 2023-06-25
 author: cola
 categories: [机器学习基础]
 pin: true
+image: assets/imgs/ai/LSTM/LSTM.png
 ---
 
 

@@ -4,6 +4,7 @@ title: "状态字典state_dict简单介绍"
 date: 2023-06-02
 author: cola Liu
 categories: [编程篇, PyTorch]
+image: assets/imgs/cover/state-dict.png
 ---
 
 > 在模型训练中，我们经常会看到state_dict，本文简单介绍state_dict及其读写。

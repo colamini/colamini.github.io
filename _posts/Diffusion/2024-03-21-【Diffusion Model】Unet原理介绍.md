@@ -5,7 +5,7 @@ date: 2024-03-21
 author: cola
 categories: [Diffusion]
 usemathjax: true
-image: assets/imgs/ai/diffusion/unet.png
+image: assets/imgs/cover/unet.png
 ---
 
 在扩散模型 `DDPM(Denoising Diffusion Probabilitistic Model)`中需要训练一个神经网络来学习加在数据上的噪声 $\epsilon$。并且神经网络预测的噪声的维度需要与输入的数据维度相同。

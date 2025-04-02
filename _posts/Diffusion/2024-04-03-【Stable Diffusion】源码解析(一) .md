@@ -5,7 +5,7 @@ date: 2024-04-03
 author: "cola"
 categories: [Diffusion]
 usemathjax: true
-image: assets/imgs/ai/diffusion/diffusion000.jpeg
+image: assets/imgs/cover/diffusion000.jpeg
 ---
 
 

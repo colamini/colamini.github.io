@@ -5,6 +5,7 @@ date: 2024-05-06
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
+image: assets/imgs/cover/example-selector.png
 ---
 
 介绍了几种示例选择的使用场景以及用法。其中，长度示例选择器比较简单，仅仅通过长度限制来选择示例。

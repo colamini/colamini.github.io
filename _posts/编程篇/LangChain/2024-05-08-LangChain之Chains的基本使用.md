@@ -5,7 +5,7 @@ date: 2024-05-08
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
-image: assets/imgs/ai/langchain/doc-chain.png
+image: assets/imgs/cover/doc-chain.png
 
 ---
 

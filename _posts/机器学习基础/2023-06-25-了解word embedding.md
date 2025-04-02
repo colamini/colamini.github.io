@@ -4,6 +4,7 @@ title: "了解 Word Embedding"
 date: 2023-06-25
 author: cola
 categories: [机器学习基础]
+image: assets/imgs/cover/word-embedding.png
 ---
 
 ## Word Embedding

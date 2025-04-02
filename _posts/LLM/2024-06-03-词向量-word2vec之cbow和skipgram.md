@@ -4,6 +4,7 @@ title: "词向量-word2vec之cbow和skipgram"
 date: 2024-06-03
 author: cola
 categories: [LLM]
+image: assets/imgs/cover/word2vector.jpg
 
 ---
 

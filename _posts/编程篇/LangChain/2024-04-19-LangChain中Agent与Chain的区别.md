@@ -5,7 +5,7 @@ date: 2024-04-19
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
-image: assets/imgs/ai/langchain/agent_chain01.png
+image: assets/imgs/cover/agent_chain01.png
 ---
 LangChain中两个重要的概念`chain`和`agent`，它们既有联系也有一定的区别。
 

@@ -5,7 +5,7 @@ date: 2023-07-03
 author: cola Liu
 categories: [编程篇,BaseLine,模型设计]
 pin: true
-image: assets/imgs/ai/transformer/self-attention.png
+image: assets/imgs/cover/self-attention.png
 ---
 
 `Transformer`是一种用于自然语言处理和其他序列到序列任务的机器学习模型。它于2017年由Google的研究人员提出，并在机器翻译任务中取得了重大突破。

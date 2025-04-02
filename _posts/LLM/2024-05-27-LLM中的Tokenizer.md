@@ -4,7 +4,7 @@ title: "LLM中的Tokenizer"
 date: 2024-05-27
 author: cola
 categories: [LLM]
-image: assets/imgs/ai/llm/tokenizer-1.png
+image: assets/imgs/cover/tokenizer-1.png
 description: "Tokenizer（分词器）是一种将文本数据拆分为更小单位（通常称为token）的工具或算法，这些token可以是单词、字符或子词单元。"
 
 ---

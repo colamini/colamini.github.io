@@ -4,7 +4,7 @@ title: "kmeans、knn 和 meanshift"
 date: 2023-04-10
 author: cola
 categories: [机器学习基础]
-image: assets/imgs/ai/聚类/knn.png
+image: assets/imgs/cover/knn.png
 ---
 
 # 聚类算法介绍

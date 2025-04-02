@@ -5,6 +5,7 @@ date: 2024-04-01
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
+image: assets/imgs/cover/prompt-template.png
 ---
 
 

@@ -5,7 +5,7 @@ date: 2024-05-07
 author: "cola Liu"
 categories: [编程篇, LangChain]
 usemathjax: true
-image: assets/imgs/ai/langchain/langchain-rag.png
+image: assets/imgs/cover/langchain-rag.png
 ---
 
 ## RAG

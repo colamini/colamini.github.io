@@ -4,6 +4,7 @@ title: "SadTalker避坑指南"
 date: 2023-01-01
 author: cola
 categories: [工作总结]
+image: assets/imgs/cover/sad-talker.png
 ---
 
 使用的某些依赖的版本太低了，导致出现一系列问题…

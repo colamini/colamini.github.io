@@ -7,7 +7,7 @@ categories: [编程篇, PyTorch]
 image: assets/imgs/cover/state-dict.png
 ---
 
-> 在模型训练中，我们经常会看到state_dict，本文简单介绍state_dict及其读写。
+在模型训练中，我们经常会看到state_dict状态字典，本文主要介绍state_dict及其读写。
 
 ## 什么是state_dict
 

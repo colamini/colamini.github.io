@@ -8,7 +8,9 @@ usemathjax: true
 image: assets/imgs/cover/diffusion008.jpeg
 ---
 
-扩散模型`（Diffusion Model）`是一种用于生成高质量样本的生成式模型，它通过逐步迭代生成图像的方式来模拟真实数据的分布。这种模型最初由赫里亚尔·史塔布（Hjálmar Hafsteinsson）和塔奇科夫斯基（Taco Cohen）等人提出，并在深度学习领域得到了广泛关注和研究。
+扩散模型`（Diffusion Model）`是一种用于生成高质量样本的生成式模型，它通过逐步迭代生成图像的方式来模拟真实数据的分布。
+
+这种模型最初由赫里亚尔·史塔布（Hjálmar Hafsteinsson）和塔奇科夫斯基（Taco Cohen）等人提出，并在深度学习领域得到了广泛关注和研究。
 
 基于扩散模型的架构有 `GLIDE`, `DALLE-2`, `Imagen` 和 完全开源的 `Stable Diffusion`。
 

@@ -7,6 +7,9 @@ categories: [编程篇, PyTorch]
 image: assets/imgs/cover/transpose.png
 ---
 
+在PyTorch中，使用torch.transpose()或.T方法进行转置，常用于调整数据维度以适应不同的模型输入要求。
+
+
 ## transpose
 
 如果原始张量的维度顺序是(0, 1, 2)，而你想要将维度顺序变为(0, 2, 1)，你可以使用transpose函数进行操作。

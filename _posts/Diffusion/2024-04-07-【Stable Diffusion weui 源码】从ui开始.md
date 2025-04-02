@@ -7,6 +7,7 @@ categories: [Diffusion]
 usemathjax: true
 image: assets/imgs/cover/sdw-007.jpeg
 ---
+
 `Stable Diffusion WebUI`（稳定扩散 WebUI）是一个基于 `Stable Diffusion` 的网络用户界面 `（Web User Interface）`。
 
 `Stable Diffusion` 是一种用于生成高质量图像的深度学习模型，其核心思想是通过对潜在空间进行随机游走来生成图像。

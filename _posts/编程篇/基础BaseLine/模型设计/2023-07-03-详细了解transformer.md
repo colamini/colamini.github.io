@@ -8,7 +8,7 @@ pin: true
 image: assets/imgs/cover/self-attention.png
 ---
 
-`Transformer`是一种用于自然语言处理和其他序列到序列任务的机器学习模型。它于2017年由Google的研究人员提出，并在机器翻译任务中取得了重大突破。
+`Transformer`是一种用于自然语言处理和其他序列到序列任务的机器学习模型。由Google的研究人员提出，在机器翻译中取得了重大突破。
 
 `Transformer`模型由编码器`（Encoder）`和解码器`（Decoder）`组成。
 - 编码器负责将输入序列进行编码，解码器负责根据编码器的输出生成目标序列。

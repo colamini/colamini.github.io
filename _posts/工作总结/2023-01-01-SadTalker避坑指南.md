@@ -7,7 +7,7 @@ categories: [工作总结]
 image: assets/imgs/cover/sad-talker.png
 ---
 
-使用的某些依赖的版本太低了，导致出现一系列问题…
+SadTalker一大堆坑，比如使用的某些依赖的版本太低了，导致出现一系列问题…特写此文避坑。
 
 ## 1、torch相关版本问题
 ```

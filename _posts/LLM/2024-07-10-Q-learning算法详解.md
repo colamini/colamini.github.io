@@ -5,10 +5,10 @@ date: 2024-07-10
 author: cola
 categories: [LLM, RL]
 image: assets/imgs/cover/env_agent.png
-description: "
-强化学习（Reinforcement Learning，RL）是一种机器学习方法，旨在通过智能体（Agent）与环境（Environment）的交互来学习如何采取行动，以最大化长期累积奖励。"
+
 ---
 
+强化学习的核心思想是试错学习，智能体通过与环境不断互动，获取反馈，并逐步调整策略，从而优化其行为。
 
 强化学习（`Reinforcement Learning，RL`）是一种机器学习方法，旨在通过智能体（`Agent`）与环境（`Environment`）的交互来学习如何采取行动，以最大化长期累积奖励。
 

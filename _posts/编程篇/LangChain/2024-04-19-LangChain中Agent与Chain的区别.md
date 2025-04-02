@@ -7,7 +7,8 @@ categories: [编程篇, LangChain]
 usemathjax: true
 image: assets/imgs/cover/agent_chain01.png
 ---
-LangChain中两个重要的概念`chain`和`agent`，它们既有联系也有一定的区别。
+
+Langchian 中，Chain 是按序执行多个步骤的流程，适用于固定逻辑的任务。Agent 更灵活，可动态调用工具。
 
 `chain` 在语言链中更倾向于表示一系列处理步骤或者流程，而 `agent` 则更倾向于表示一个具体的执行实体或者组件。
 

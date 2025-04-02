@@ -8,7 +8,7 @@ usemathjax: true
 image: assets/imgs/cover/router-chain.png
 ---
 
-
+路由链 `RouterChain`，就是根据一些前置条件，选择执行不同的chain，执行过程是动态的。
 
 ## 路由链
 路由链 `RouterChain`，就是根据一些前置条件，选择执行不同的chain，执行过程是动态的。比方说我们有不同的url，就执行不同的链路。

@@ -8,7 +8,9 @@ usemathjax: true
 image: assets/imgs/cover/unet.png
 ---
 
-在扩散模型 `DDPM(Denoising Diffusion Probabilitistic Model)`中需要训练一个神经网络来学习加在数据上的噪声 $\epsilon$。并且神经网络预测的噪声的维度需要与输入的数据维度相同。
+在扩散模型 `DDPM(Denoising Diffusion Probabilitistic Model)`中需要训练一个神经网络来学习加在数据上的噪声 $\epsilon$。
+
+并且神经网络预测的噪声的维度需要与输入的数据维度相同。
 
 神经网络`U-Net`是一个常用的选择。
 

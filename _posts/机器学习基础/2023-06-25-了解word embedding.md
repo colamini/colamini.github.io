@@ -7,8 +7,10 @@ categories: [机器学习基础]
 image: assets/imgs/cover/word-embedding.png
 ---
 
+`Word embedding`是一种将词汇表中的单词映射到实数向量空间的技术。它是自然语言处理中的重要概念。
+
 ## Word Embedding
-`Word embedding`是一种将词汇表中的单词映射到实数向量空间的技术。它是自然语言处理中的重要概念，可以将离散的文本单词转换为连续的向量表示，以捕捉单词之间的语义关系。
+`Word embedding`可以将离散的文本单词转换为连续的向量表示，以捕捉单词之间的语义关系。
 
 
 假设我们有以下这个句子：

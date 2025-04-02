@@ -8,6 +8,8 @@ usemathjax: true
 image: assets/imgs/cover/langchain-rag.png
 ---
 
+RAG的主要优势在于它能够利用大规模的语料库来提供更加丰富和准确的上下文信息，从而改善生成文本的质量。
+
 ## RAG
 
 **RAG（Retrieval-Augmented Generation）** 即检索增强生成。

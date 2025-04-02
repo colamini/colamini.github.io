@@ -8,7 +8,7 @@ pin: true
 image: assets/imgs/cover/self-attention-10.png
 ---
 
-`self-attention`是一个新的模型架构。对待新的模型架构，一般是从已有的知识入手，分析新旧模型之间的异同，提出新的架构可以帮助以前的模型解决什么痛点。
+Self-attention用于计算输入序列中每个元素与其他元素之间的关系，通过加权求和来捕捉输入序列内部的依赖关系。
 
 ## self-attention的提出
 

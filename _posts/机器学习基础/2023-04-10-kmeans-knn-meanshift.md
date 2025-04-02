@@ -7,6 +7,8 @@ categories: [机器学习基础]
 image: assets/imgs/cover/knn.png
 ---
 
+聚类算法是一种无监督学习方法，通过将数据划分为多个组或簇，使同一组内的数据相似度最大，不同组间相似度最小。
+
 # 聚类算法介绍
 
 ## Kmeans & Meanshift & KNN

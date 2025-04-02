@@ -7,7 +7,7 @@ categories: [LLM]
 image: assets/imgs/cover/seq2seq-attention-2.png
 
 ---
-`Seq2Seq` 模型是一种用于处理序列数据的深度学习模型架构。
+`Seq2Seq` 模型是一种用于处理序列数据的深度学习模型架构。基本思想是将一个变长的输入序列转换为一个变长的输出序列。
 
 它的基本思想是将一个变长的输入序列转换为一个变长的输出序列。这个过程通常包括两个主要组件：编码器（`Encoder`）和解码器（`Decoder`）。
 <img src="/assets/imgs/ai/seq2seq/seq2seq-attention-1.png" />

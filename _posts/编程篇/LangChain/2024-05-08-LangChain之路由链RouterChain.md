@@ -2,7 +2,7 @@
 layout: post
 title: "LangChain之路由链RouterChain"
 date: 2024-05-08
-author: "cola Liu"
+author: "cola"
 categories: [编程篇, LangChain]
 usemathjax: true
 image: assets/imgs/cover/router-chain.png

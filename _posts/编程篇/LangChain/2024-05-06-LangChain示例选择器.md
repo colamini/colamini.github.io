@@ -2,7 +2,7 @@
 layout: post
 title: "LangChain示例选择器"
 date: 2024-05-06
-author: "cola Liu"
+author: "cola"
 categories: [编程篇, LangChain]
 usemathjax: true
 image: assets/imgs/cover/example-selector.png

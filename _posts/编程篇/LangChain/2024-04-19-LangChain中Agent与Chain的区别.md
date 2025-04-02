@@ -2,7 +2,7 @@
 layout: post
 title: "LangChain中Agent与Chain的区别"
 date: 2024-04-19
-author: "cola Liu"
+author: "cola"
 categories: [编程篇, LangChain]
 usemathjax: true
 image: assets/imgs/cover/agent_chain01.png

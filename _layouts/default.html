@@ -70,14 +70,16 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/assets/files/kexinliu-resume.pdf">Resume</a>
                 </li>
 
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
-                </li>
+               
                
 
                 <!-- <li class="nav-item">
@@ -113,27 +115,15 @@ ga('send', 'pageview');
 
 <div class="container">
 
-<!-- Site Title with Avatar & Background
+<!-- Site Title
 ================================================== -->
-<div class="mainheading text-center"
-    style="position: relative; padding: 4rem 1rem 3rem;">
-
-    <!-- Avatar -->
-    <img src="{{ site.baseurl }}/assets/images/avatar.png" alt="avatar"
-        style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 1rem;">
-
-    <!-- Site Title -->
-    <h1 class="sitetitle"
-        style="font-family: 'Segoe UI', sans-serif; font-weight: 700; font-size: 2rem; color: #2c3e50;">
-         {{ site.name }}
-    </h1>
-
-    <!-- Site Description -->
-    <p class="lead" style="font-size: 1.5rem; color: #555; max-width: 600px; margin: 0 auto;">
+<div class="mainheading">
+    <h1 class="sitetitle">{{ site.name }}</h1>
+    <p class="lead">
         {{ site.description }}
     </p>
-
 </div>
+
 
 <!-- Content
 ================================================== -->
